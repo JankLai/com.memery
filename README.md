@@ -1,4 +1,4 @@
-# com.memery
+# memeryPaging
 My first Github project:
 A java program to simulate memery paging processes with different algorithms;
 Offerd several different paging algorithm;
