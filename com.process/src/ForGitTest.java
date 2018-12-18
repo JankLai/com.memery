@@ -1,5 +1,5 @@
 
 public class ForGitTest {
 	private int test;
-	private int newTest;
+	private int newTest2;
 }
